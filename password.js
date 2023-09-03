@@ -2,12 +2,13 @@ var password = "primaverahelada";
 
 function passcheck() {
 	
-	if(document.getElementByID('pass1').value) != password {
+	if(document.getElementById('primaverahelada').value) != password {
 	alert('Incorrecto');
 	return false;
 	}
 
-	if(document.getElementByID('pass1').value) == password {
+	if(document.getElementById('primaverahelada').value) == password {
 	alert('Correcto');
+	return true;
 	}
 }
