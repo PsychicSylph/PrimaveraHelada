@@ -1,3 +1,13 @@
 body {
-	background: red;
+				background: black;
+			}
+			.input {
+				display: grid;
+				place-items: center;
+				padding-top: 150px;
+				h4 {
+				font-family: courier;
+				color: white;
+			}
+			}
 }
