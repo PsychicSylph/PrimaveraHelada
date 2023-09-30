@@ -1,0 +1,12 @@
+body {
+	background: black;
+	font-family: courier;
+	color: white;
+}
+
+
+img {
+	width: 600px;
+	height: 680px;
+	object-fit: contain;
+}
