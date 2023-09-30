@@ -1,0 +1,23 @@
+body {
+		background: black;
+	}
+
+h3 {
+		color: white;
+		font-family: courier;
+		background: black;
+	}
+
+#cursor {
+	color: white;
+	animation: blink 1s linear infinite;
+}
+
+@keyframes blink {
+	0% {
+		opacity: 100%;
+	}
+	50% {
+		opacity: 0%;
+	}
+}
