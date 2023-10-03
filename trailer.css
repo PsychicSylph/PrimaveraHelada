@@ -1,0 +1,22 @@
+body {
+				background: black;
+		}
+
+button {
+background: #091c2a;
+font-family: courier;
+color: white;
+height: 40px;
+width: 60px;
+}
+
+video {
+	margin: 50px;
+	justify-content: center;
+}
+
+.hola {
+	position: relative;
+	top: 0;
+	right: 50;
+}
